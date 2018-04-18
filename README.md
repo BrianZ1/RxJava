@@ -1,4 +1,3 @@
-a
 # RxJava: Reactive Extensions for the JVM
 
 <a href='https://travis-ci.org/ReactiveX/RxJava/builds'><img src='https://travis-ci.org/ReactiveX/RxJava.svg?branch=2.x'></a>
